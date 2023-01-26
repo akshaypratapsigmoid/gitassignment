@@ -5,3 +5,4 @@ Making change from Feature_1 branch
 Rebase step
 Again making changes from Feature_1
 Merged conflict for Feature_1
+Change made in HotFix branch
